@@ -1,2 +1,24 @@
-# zensun-website-Single-Page
-"Developed a responsive single-page solar energy website using React. Created modern UI components, optimized layouts, and user-friendly sections to showcase renewable energy solutions, services, and company information with a clean and professional design."
+# ZenSun Website
+
+Professional React/Vite website for ZenSun, a Jaipur-based solar EPC company.
+
+## Run
+
+```powershell
+pnpm install
+pnpm run dev
+```
+
+## Build
+
+```powershell
+pnpm run build
+```
+
+The production output is generated in `dist/`.
+
+## Main Files
+
+- `src/main.jsx` contains the homepage content and sections.
+- `src/styles.css` contains the responsive visual system.
+- `public/assets/` contains the local solar imagery used by the site.
